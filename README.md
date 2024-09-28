@@ -1,6 +1,6 @@
 ```javascript
 const response = {
-  status: 202,
+  status: 200,
   data: {
     name: "Mahdi Haghollahi",
     nickname: "</Ctrl+Z>",
