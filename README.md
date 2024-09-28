@@ -9,3 +9,10 @@ const response = {
     university: "Central Tehran",
   }
 };
+
+
+````
+![Dynamic JSON Badge](https://img.shields.io/badge/React-FrontEnd-green)
+![Dynamiv JSON Badge](https://img.shields.io/github/commit-activity/y/mahdihagollahi/Booking-a-beauty-clinic)
+![Dynamiv JSON Badge](https://img.shields.io/github/languages/top/mahdihagollahi/Booking-a-beauty-clinic)
+![Dynamiv JSON Badge](https://img.shields.io/github/stars/badges)
