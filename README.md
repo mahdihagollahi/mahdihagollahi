@@ -5,7 +5,7 @@ const response = {
     name: "Mahdi Haghollahi",
     nickname: "</Ctrl+Z>",
     birthDay: "27 May",
-    skills: "Java, JS, React, ts",
+    skills: "Next.js, JS, React, ts",
     university: "Central Tehran",
   }
 };
